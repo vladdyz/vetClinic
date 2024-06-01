@@ -1,0 +1,8 @@
+﻿  a1ms3.c
+  clinic.c
+C:\Users\Black\source\repos\vetclinic\clinic.c(1116,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Black\source\repos\vetclinic\clinic.c(1178,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  core.c
+C:\Users\Black\source\repos\vetclinic\core.c(125,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  vetclinic.vcxproj -> C:\Users\Black\source\repos\vetclinic\x64\Debug\vetclinic.exe
